@@ -1,0 +1,26 @@
+site_name: Workshop Mkdocs
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/moon-waxing-crescent
+        name: Switch to dark mode
+      primary: yellow
+      accent: blue
+    - scheme: slate
+      toggle:
+        icon: material/white-balance-sunny
+        name: Switch to light mode
+      primary: yellow
+      accent: lime
