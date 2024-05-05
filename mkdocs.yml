@@ -31,6 +31,7 @@ theme:
     # - search.share
     # - toc.follow
     # - toc.integrate
+
   language: en
   palette:
     - scheme: default
@@ -50,3 +51,15 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/favicon.png
+
+nav:
+  - Home : index.md
+  - Recettes:
+    - Desserts:
+      - recettes/desserts.md
+      - Eclair Chocolat : recettes/eclair-choco.md
+    - Plats:
+      - recettes/plats.md
+      - Pad-Thai : recettes/plats/pad-thai-crevettes.md
+      - Pizza : recettes/plats/pizza-margherita.md
+      - Poulet Masala : recettes/plats/poulet-masala.md
