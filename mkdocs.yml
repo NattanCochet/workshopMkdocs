@@ -11,9 +11,9 @@ theme:
     - content.tabs.link
     - content.code.copy
     - content.code.annotate
-    #- announce.dismiss
-    #- content.action.edit
-    #- content.action.view
+    # - announce.dismiss
+    # - content.action.edit
+    # - content.action.view
     # - content.code.select
     # - content.footnote.tooltips
     # - content.tabs.link
@@ -56,16 +56,22 @@ theme:
 nav:
   - Acceuil : index.md
   - Recettes:
+    - Entrees :
+      - Entrees : recettes/entrees.md
+      
     - Desserts:
-      - recettes/desserts.md
+      - Desserts : recettes/desserts.md
       - Eclair Chocolat : recettes/desserts/eclair-choco.md
     - Plats:
-      - recettes/plats.md
+      - Plats : recettes/plats.md
       - Pad-Thai : recettes/plats/pad-thai-crevettes.md
       - Pizza : recettes/plats/pizza-margherita.md
       - Poulet Masala : recettes/plats/poulet-masala.md
 
 copyright: Made by &copyNattan COCHET, 2024
+
+extra_css:
+  - styles/extra.css
 
 extra:
   generator: false
