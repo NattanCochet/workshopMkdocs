@@ -48,11 +48,6 @@ theme:
       primary: indigo
       accent: lime
 
-  font:
-    text: Roboto
-    code: Roboto Mono
-  favicon: assets/favicon.png
-
 nav:
   - Acceuil : index.md
   - Recettes:
