@@ -58,7 +58,8 @@ nav:
   - Recettes:
     - Entrees :
       - Entrees : recettes/entrees.md
-      
+      - Bruschetta aux champigons : recettes/entrees/bruschetta-champi.md
+      - Guacamole : recettes/entrees/guacamole.md
     - Desserts:
       - Desserts : recettes/desserts.md
       - Eclair Chocolat : recettes/desserts/eclair-choco.md
