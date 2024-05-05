@@ -12,4 +12,4 @@ Découvrez nos délicieuses recettes d'entrées pour commencer votre repas en be
 
 ---
 
-Retour à la [page d'accueil](index.md).
+Retour à la [page d'accueil](../index.md).
