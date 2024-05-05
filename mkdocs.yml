@@ -5,6 +5,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.footer
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -53,7 +54,7 @@ theme:
   favicon: assets/favicon.png
 
 nav:
-  - Home : index.md
+  - Acceuil : index.md
   - Recettes:
     - Desserts:
       - recettes/desserts.md
@@ -63,3 +64,5 @@ nav:
       - Pad-Thai : recettes/plats/pad-thai-crevettes.md
       - Pizza : recettes/plats/pizza-margherita.md
       - Poulet Masala : recettes/plats/poulet-masala.md
+
+copyright: Made by &copy Nattan COCHET, 2024
