@@ -38,7 +38,7 @@ theme:
 Ajoutez/modifiez les fichiers Markdown dans le répertoire docs. Vous pouvez créer une arborescence de fichiers/dossiers comme vous le souhaitez.
 Prévisualiser le rendu
 
-**voir le [fichier](https://raw.githubusercontent.com/NattanCochet/workshopMkdocs/master/mkdocs.yml) donné avec le [site template](https://nattancochet.github.io/workshopMkdocs/)**
+**voir le [fichier](https://github.com/NattanCochet/workshopMkdocs/blob/master/mkdocs.yml) donné avec le [site template](https://nattancochet.github.io/workshopMkdocs/)**
 
 ## Démarrez le serveur de développement
 
