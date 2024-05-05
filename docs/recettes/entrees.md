@@ -2,8 +2,6 @@
 
 Découvrez nos délicieuses recettes d'entrées pour commencer votre repas en beauté !
 
-![](https://images.ricardocuisine.com/services/recipes/8440.jpg)
-
 ### 1. [Salade César](recettes/salade-cesar.md)
 
 ### 2. [Bruschetta à la tomate](recettes/bruschetta-tomate.md)
