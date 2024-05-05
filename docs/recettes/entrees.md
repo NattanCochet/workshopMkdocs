@@ -4,11 +4,11 @@ Découvrez nos délicieuses recettes d'entrées pour commencer votre repas en be
 
 ![](https://images.ricardocuisine.com/services/recipes/8440.jpg)
 
-## 1. [Salade César](recettes/salade-cesar.md)
+### 1. [Salade César](recettes/salade-cesar.md)
 
-## 2. [Bruschetta à la tomate](recettes/bruschetta-tomate.md)
+### 2. [Bruschetta à la tomate](recettes/bruschetta-tomate.md)
 
-## 3. [Soupe à l'oignon gratinée](recettes/soupe-oignon-gratinee.md)
+### 3. [Soupe à l'oignon gratinée](recettes/soupe-oignon-gratinee.md)
 
 ---
 
