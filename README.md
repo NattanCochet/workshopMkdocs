@@ -2,19 +2,23 @@
 
 ## Installation
 
-Installez MkDocs avec pip :
+### Installez MkDocs avec pip :
 
+```sh
 pip install mkdocs
+```
 
-Installez le thème Material :
+### Installez le thème Material :
 
+```sh
 pip install mkdocs-material
+```
 
 ## Créer le projet
 
 Créez un nouveau répo github public et clonez le
 
-Utilisez mkdocs pour créer les fichiers de base :
+Utilisez mkdocs pour créer les fichiers de base
 
 ```sh
 mkdocs new .
@@ -38,7 +42,9 @@ Prévisualiser le rendu
 
 ## Démarrez le serveur de développement
 
+```sh
 mkdocs serve
+```
 
 Ouvrez http://localhost:8000 dans votre navigateur pour prévisualiser les modifications.
 
@@ -50,7 +56,7 @@ Consultez la [documentation officielle](https://squidfunk.github.io/mkdocs-mater
 
 ## Déploiement
 
-Une fois votre documentation finalisée, vous pouvez la publier sur github pages avec le fichier .github/workflows/ci.yml ci dessous :
+Une fois votre documentation finalisée, vous pouvez la publier sur github pages avec le fichier **.github/workflows/ci.yml** ci dessous :
 
 ```yml
 name: ci 
@@ -88,6 +94,6 @@ Allez dans la section "actions de votre répo, cliquez sur la première entrée 
 
 ![](assets/repo_actions_2.png)
 
-Vous devriez pouvoir accéder à votre site une fois que l'action soit terminée!
+Vous devriez pouvoir accéder à votre site une fois que l'action soit terminée !
 
-Vous savez maintenant faire un site de documentation de qualité professionnelle simplement
+## Vous savez maintenant faire un site de documentation de qualité professionnelle simplement !
