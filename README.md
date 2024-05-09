@@ -2,13 +2,7 @@
 
 ## Installation
 
-### Installez MkDocs avec pip :
-
-```sh
-pip install mkdocs
-```
-
-### Installez le thème Material :
+### Installez le mkdocs-material :
 
 ```sh
 pip install mkdocs-material
