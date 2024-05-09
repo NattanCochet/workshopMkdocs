@@ -2,7 +2,7 @@
 
 ## Installation
 
-### Installez le mkdocs-material :
+### Installez mkdocs-material :
 
 ```sh
 pip install mkdocs-material
